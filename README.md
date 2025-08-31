@@ -1,3 +1,5 @@
-Bienvenido a mi primer repositorio
+# Bienvenido a mi primer repositorio
 
-Aquí encontrarás una aplicación para calcular el ínidice de Ruffier
+Aquí encontrarás una aplicación para calcular el **ínidice de Ruffier**
+
+## Funcionalidades
